@@ -1,5 +1,12 @@
 ![](https://bitbucket.org/mstrobel/procyon/wiki/logo.png)
 
+
+# This is an early fork of [Procyon](https://bitbucket.org/mstrobel/procyon) from bitbucket. 
+# Procyon has moved to github [Procyon](https://github.com/mstrobel/procyon). 
+# For the latest version, please see https://github.com/mstrobel/procyon
+
+
+
 *Procyon* is a suite of Java metaprogramming tools focused on code generation and analysis.  It includes the following libraries:
 
   1. Core Framework
