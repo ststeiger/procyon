@@ -2,7 +2,7 @@
 
 
 # This is an early fork of [Procyon](https://bitbucket.org/mstrobel/procyon) from bitbucket. 
-# Procyon has moved to github [Procyon](https://github.com/mstrobel/procyon). 
+# Procyon has moved to [github](https://github.com/mstrobel/procyon). 
 # For the latest version, please see https://github.com/mstrobel/procyon
 
 
