@@ -1,8 +1,8 @@
 ![](https://bitbucket.org/mstrobel/procyon/wiki/logo.png)
 
 
-# This is an early fork of [Procyon](https://bitbucket.org/mstrobel/procyon) from bitbucket. 
-# Procyon has moved to [github](https://github.com/mstrobel/procyon). 
+# This is an early [fork of Procyon from bitbucket](https://bitbucket.org/mstrobel/procyon). 
+# Procyon has since moved to [github](https://github.com/mstrobel/procyon). 
 # For the latest version, please see https://github.com/mstrobel/procyon
 
 
